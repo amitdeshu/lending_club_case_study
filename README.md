@@ -1,1 +1,3 @@
-# lending_club_case_study
+# Lending Club Case Study
+
+EDA for Lending Club Data set for credit risk analysis
